@@ -13,8 +13,8 @@ if 10 ==10:
 
 print('Fora do if')'''
 
-condicao1 = False
-condicao2 = False
+condicao1 = True
+condicao2 = True
 condicao3 = True # False / sera checado a condição que for primeira e não respondera outra abaixo
 condicao4 = False
 
@@ -28,6 +28,11 @@ elif condicao3:
 elif condicao4:
     print('Código para condição 4')
 else:
-    print('Nenhuma condição foi sstisfeita.')
+    print('Nenhuma condição foi sastisfeita.')
+
+if 10 ==10:
+    print('Outro if')
+
+print('Fora do if')
 
 
