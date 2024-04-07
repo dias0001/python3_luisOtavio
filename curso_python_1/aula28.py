@@ -15,9 +15,7 @@ Se nada for digitado em nome ou idade:
 """
 
 nome = input('Digite seu "nome"?')
-idade = input('Digite seu "idade"?')
-
-#int_idade = int(idade) 
+idade = input('Digite seu "idade"?') 
 
 if nome and idade:
     print(f'Seu nome é {nome}')
