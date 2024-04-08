@@ -1,6 +1,6 @@
 # \r\n -> CRLF
 # \n -> LF
-print(12, 34, 1011, sep="-")
+print(12, 34, 1011, sep=":")
 print(78, 34, sep='-')
 print(44, 64, sep='-') 
 
